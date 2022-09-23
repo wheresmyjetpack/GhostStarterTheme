@@ -57,7 +57,11 @@
         "gulp-zip": "5.1.0",
         "postcss": "8.4.16",
         "postcss-color-mod-function": "3.0.3",
-        "postcss-easy-import": "4.0.0"
+        "postcss-easy-import": "4.0.0",
+        "rollup": "^2.79.1",
+        "rollup-stream": "^1.24.1",
+        "vinyl-buffer": "^1.0.1",
+        "vinyl-source-stream": "^2.0.0"
     },
     "browserslist": [
         "defaults"
